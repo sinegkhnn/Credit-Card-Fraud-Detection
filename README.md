@@ -4,7 +4,7 @@
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
-from termcolor import colored as cl # text customization
+from termcolor import colored as 
 
 import seaborn as sns
 import matplotlib.pyplot as plt
