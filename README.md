@@ -276,7 +276,7 @@ accuracy_score(y1_test,prediction2)
 ```
 0.9988764439450862
 
-## Model 3:
+## Model 3:
 
 ```bash
 xgb = XGBClassifier(max_depth = 4)
