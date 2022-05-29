@@ -78,7 +78,7 @@ print(cl('Percentage of fraud Transactions is {}'.format(fraud_percentage), attr
 
 Bu verilerle ilgili fark edeceğiniz en önemli şey, veri kümesinin bir özelliğe göre dengesiz olmasıdır. Bu nedenle, veri kümelerimize ait işlemlerin çoğunluğunun normal olduğunu ve işlemlerin yalnızca birkaç yüzdesinin hileli olduğunu görebiliyoruz.
 
-<img src="[./src/images/github-profile-readme-generator.gif](https://camo.githubusercontent.com/055be2eea5a7ab2dbad79044b4fb9d6f0e201f51efda519da0fe0b0254c5d451/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3532342f312a52695a6b543235444e45386f312d4d6f3367744175772e706e67)" />
+<img src="https://camo.githubusercontent.com/055be2eea5a7ab2dbad79044b4fb9d6f0e201f51efda519da0fe0b0254c5d451/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3532342f312a52695a6b543235444e45386f312d4d6f3367744175772e706e67" />
 
 VERİ HAKKINDA BİLGİLERE GÖZ ATALIM
 
